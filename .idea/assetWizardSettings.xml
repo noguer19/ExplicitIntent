@@ -51,11 +51,35 @@
                                           </PersistentState>
                                         </value>
                                       </entry>
+                                      <entry key="text">
+                                        <value>
+                                          <PersistentState>
+                                            <option name="values">
+                                              <map>
+                                                <entry key="color" value="2318ff" />
+                                              </map>
+                                            </option>
+                                          </PersistentState>
+                                        </value>
+                                      </entry>
+                                      <entry key="textAsset">
+                                        <value>
+                                          <PersistentState>
+                                            <option name="values">
+                                              <map>
+                                                <entry key="text" value="Ei" />
+                                              </map>
+                                            </option>
+                                          </PersistentState>
+                                        </value>
+                                      </entry>
                                     </map>
                                   </option>
                                   <option name="values">
                                     <map>
-                                      <entry key="backgroundColor" value="dfe1e3" />
+                                      <entry key="assetType" value="TEXT" />
+                                      <entry key="backgroundColor" value="fbfdff" />
+                                      <entry key="iconShape" value="NONE" />
                                     </map>
                                   </option>
                                 </PersistentState>
